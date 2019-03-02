@@ -6,7 +6,7 @@ nota_3=float(input("Digita la tercera nota: "))
 nota_4=float(input("Digita la cuarta nota: "))
 nota_5=float(input("Digita la quinta nota: "))
 
-suma=(nota_1*0.1)+(nota_2*0.15)+(nota_3*0.25)+(nota_4*0.15)+(nota_5*0.35)
+suma=(nota_1*0.15)+(nota_2*0.2)+(nota_3*0.15)+(nota_4*0.3)+(nota_5*0.2)
 print(suma)
 
 if suma<2 and suma>=1:
